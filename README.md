@@ -1,4 +1,4 @@
 cnminlangwebcollect
 ===================
 
-Chinese minorities website languages detection and websites collection
+Chinese minorities website languages detection and websites collection.
